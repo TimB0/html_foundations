@@ -1,0 +1,304 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"my",
+				"myFunc2"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"FA",
+				"FAF3BC"
+			],
+			[
+				"o",
+				"ol	Tag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"paddi",
+				"padding	padding: all"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"pa",
+				"padding	padding: all"
+			],
+			[
+				"co",
+				"connection"
+			],
+			[
+				"mys",
+				"mysql_close"
+			],
+			[
+				"mysql_s",
+				"mysql_select_db"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "inputs.html",
+			"settings":
+			{
+				"buffer_size": 1501,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Dropbox/htdocs/resume_html/index.html",
+		"/C/Dropbox/htdocs/html_foundations/anchors/index.html",
+		"/C/Dropbox/htdocs/bakin_html/index.html",
+		"/C/Dropbox/htdocs/resume_html/css/style.css",
+		"/C/Dropbox/htdocs/resume_html/css/grid.css",
+		"/C/Dropbox/htdocs/bakin_html/css/normalize.css",
+		"/C/Dropbox/htdocs/bakin_html/css/style.css",
+		"/C/Dropbox/htdocs/resume_html/css/normalize.css",
+		"/C/Users/tboland/Downloads/[ www.Speed.Cd ] - Million.Dollar.Listing.New.York.S01E04.720p.HDTV.x264-YesTV/million.dollar.listing.new.york.0104.720p-yestv.nfo",
+		"/C/Users/tboland/Downloads/VICE.S01E10.HDTV.x264-2HD/vice.s01e10.hdtv.x264-2hd.nfo",
+		"/C/xampp/apache/logs/NOTEMPTY",
+		"/C/Dropbox/Treehouse/CSSFoundations/linear-gradients/linear-gradients/start/index.html",
+		"/C/Dropbox/Treehouse/CSSFoundations/linear-gradients/linear-gradients/start/style.css",
+		"/C/Dropbox/Treehouse/javascript/variables/JSFound-Var-Basics/index.html",
+		"/C/Dropbox/Treehouse/javascript/variables/JSFound-Var-Basics/myscript.js",
+		"/C/Dropbox/Treehouse/javascript/variables/myscript.js",
+		"/C/Dropbox/Treehouse/javascript/variables/index.html",
+		"/C/Dropbox/Treehouse/index.html",
+		"/C/Dropbox/Treehouse/css/style.css",
+		"/C/Dropbox/Treehouse/resume.html",
+		"/C/Dropbox/Treehouse/CSSFoundations/FontProperties.html",
+		"/C/Dropbox/Treehouse/CSSFoundations/styles.css",
+		"/C/Dropbox/Treehouse/HTML/Lists.html",
+		"/C/Dropbox/Treehouse/HTML/DefinitionLists.html",
+		"/C/Dropbox/Treehouse/HTML/HTMLListsChallenge.html",
+		"/C/Dropbox/Treehouse/css/resume.css",
+		"/C/Dropbox/Treehouse/css/normalize.css",
+		"/C/Dropbox/Treehouse/css/grid.css",
+		"/C/Program Files (x86)/Git/doc/git/html/git.html",
+		"/C/Dropbox/catalyst-class/Essays",
+		"/C/Users/tboland/Documents/index.html",
+		"/C/Dropbox/codecadamy/apis/youtube/js/search.js",
+		"/C/Dropbox/codecadamy/growBeanstalk",
+		"/C/Users/tboland/AppData/Roaming/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/C/Users/tboland/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/tboland/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/tboland/AppData/Local/Temp/client_secrets.json",
+		"/C/Dropbox/htdocs/widget_corp/includes/functions.php",
+		"/C/Dropbox/htdocs/widget_corp/staff.php",
+		"/C/Dropbox/htdocs/php_sandbox/basic.html",
+		"/C/Dropbox/htdocs/widget_corp/content.php",
+		"/C/Dropbox/htdocs/php_sandbox/databases.php",
+		"/C/Dropbox/htdocs/php_sandbox/whileloops.php",
+		"/C/Dropbox/htdocs/php_sandbox/my_phpinfo.php",
+		"/C/Dropbox/xampp/htdocs/phpacademy/basic/get/index.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header",
+			"btn",
+			"img",
+			"btn",
+			"clear cont",
+			"clear",
+			"h1",
+			"technologies"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "inputs.html",
+					"settings":
+					{
+						"buffer_size": 1501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1314,
+								1314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 393.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true
+}

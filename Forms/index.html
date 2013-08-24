@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>MyPage</title>
+</head>
+
+<body>
+<form action="http://example.com">
+ <form action="another_page.html">
+ 	<form action="#" method="GET">
+ 		<form action="#" method="POST" name="my_form">
+
+ 			<fieldset>
+ 				<legend>Important Information</legend>
+ 				<label for="username">Username:</label>
+	 			<input type="text" name="username" id="username"><br>
+	 			<label for="password">Password:</label>
+	 			<input type="password" name="password" id="password"><br>
+	 			Groups of Radio Buttons have the same name, only one can be checked<br>
+	 			<input type="radio" name="gender" value="Male" id="male"><label for="male">Male</label><br>
+	 			<input type="radio" name="gender" value="Female" id="female"><label for="female">Female</label><br>
+	 			<br>
+	 			Individual Radio Buttons have different names, all can be checked<br>
+	 			<input type="radio" name="male" value="Male" id="male"><label for="male">Male</label><br>
+	 			<input type="radio" name="femail" value="Female" id="female"><label for="female">Female</label><br>
+	 			<br>
+	 			Groups of checkboxes have the same name, all can be checked<br>
+	 			<input type="checkbox" name="numbers" value="1" id="1"><label for="1">1</label><br>
+	 			<input type="checkbox" name="numbers" value="2" id = "2"><label for="2">2</label><br>
+	 			<input type="checkbox" name="numbers" value="3" id ="3"><label for="3">3</label><br> 			
+	 		</fieldset>
+
+ 			
+ 			<fieldset>
+		 		<legend align="center">Optional Items</legend>
+		 		<label for="essay">We want to know more about.<br>Write a short essay about yourself!</label><br>
+		 		<textarea name="essay" id="essay" rows="10" cols="30"></textarea><br>
+
+	 			<label for="continents">Where are you from?</label><br>
+	 			<select name="continents" id="continents">
+	 				<optgroup label="Americas">
+		 				<option>North America</option>
+		 				<option>South America</option>
+	 				</optgroup>
+	 				<optgroup label="Eurasia">
+	 					<option>Europe</option>	
+	 					<option>Asia</option>
+	 				</optgroup>
+	 				<option>Africa</option>
+	 				<option>Australia</option>
+	 				<option>Antarctica</option>
+	 			</select>
+ 			</fieldset>
+
+
+ 			<br>
+ 			<input type="submit" value="Onwards">
+ </form>
+</body>
+</html>
